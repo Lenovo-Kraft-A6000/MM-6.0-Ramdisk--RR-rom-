@@ -1,0 +1,29 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.usb.vid=2717
+ro.usb.id.charge=F006
+ro.usb.id.mtp=ff60
+ro.usb.id.mtp_adb=ff68
+ro.usb.id.ptp=ff10
+ro.usb.id.ptp_adb=ff18
+ro.usb.id.ums=ff20
+ro.usb.id.ums_adb=ff28
+ro.adb.secure=0
+ro.secure=0
+ro.allow.mock.location=0
+ro.debuggable=1
+ro.zygote=zygote32
+dalvik.vm.image-dex2oat-Xms=64m
+dalvik.vm.image-dex2oat-Xmx=64m
+dalvik.vm.dex2oat-Xms=64m
+dalvik.vm.dex2oat-Xmx=512m
+ro.dalvik.vm.native.bridge=0
+debug.atrace.tags.enableflags=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2016年 04月 18日 星期一 17:35:48 CST
+ro.bootimage.build.date.utc=1460972148
+ro.bootimage.build.fingerprint=Lenovo/cm_wt86518/wt86518:6.0.1/MHC19Q/77a5b63c10:userdebug/test-keys
+persist.sys.usb.config=none
